@@ -1,0 +1,15 @@
+# secrets
+.env
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+# local databases and indexes (rebuild by script)
+*.db
+*.sqlite3
+chroma_db/
+# editor / OS
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "act": {
+    "act_name": "Bangladesh Labour Act 2006",
+    "act_year": 2006,
+    "source_url": "https://bdlaws.minlaw.gov.bd/"
+  },
+  "snapshot_date": "2026-11-04",
+  "sections": [
+    {
+      "chapter": "PLACEHOLDER chapter",
+      "section_number": "PLACEHOLDER 1",
+      "title": "PLACEHOLDER title",
+      "section_text": "PLACEHOLDER - paste the official section text copied from bdlaws.minlaw.gov.bd here, exactly as published."
+    }
+  ]
+}
