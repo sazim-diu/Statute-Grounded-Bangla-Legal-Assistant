@@ -6,7 +6,10 @@ bcrypt
 python-jose[cryptography]
 streamlit
 requests
+httpx
+pytest
+# retrieval (large downloads)
 chromadb
 sentence-transformers
-pytest
-httpx
+# used only by the data-collection scripts written by the team
+beautifulsoup4

@@ -1,0 +1,7 @@
+[
+  {
+    "question": "<write a real question in everyday Bangla>",
+    "expected_sections": ["<section number checked against the Act, e.g. in Bangla digits>"],
+    "issue": "<issue category, e.g. wages>"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "total_records": 375,
+  "indexed_records": 363,
+  "not_indexed_records": 12,
+  "flag_counts": {
+    "trailing_next_title_removed": 360,
+    "chapter_boundary_fixed": 17,
+    "chapter_inferred": 105,
+    "title_recovered": 43,
+    "title_missing": 0,
+    "duplicate_section_number": 1,
+    "placeholder_generated_text": 11,
+    "very_long_text": 2
+  },
+  "section_numbers_missing_from_source_parse": [
+    "১৬৮",
+    "১৭৬",
+    "২৮৬"
+  ],
+  "warnings": [
+    "legal_status / amendment_note come from the chunker and are NOT verified: the chunker matches 'ধারা 1' inside 'ধারা 184' etc. They are stored but not shown to users."
+  ],
+  "act_id": 1,
+  "snapshot_date": "2026-09-15"
+}

@@ -5,10 +5,11 @@ __pycache__/
 *.pyc
 venv/
 .venv/
-# local databases and indexes (rebuild by script)
+# local databases and vector indexes (rebuild by script)
 *.db
 *.sqlite3
 chroma_db/
+backend/data/chroma_db*/
 # editor / OS
 .vscode/
 .idea/
